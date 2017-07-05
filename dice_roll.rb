@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  result = rand(1...7)
+
+  return result
 end
